@@ -7,7 +7,7 @@
 #
 Name     : pypi-gdown
 Version  : 5.2.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/09/6a/37e6b70c5bda3161e40265861e63b64a86bfc6ca6a8f1c35328a675c84fd/gdown-5.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/09/6a/37e6b70c5bda3161e40265861e63b64a86bfc6ca6a8f1c35328a675c84fd/gdown-5.2.0.tar.gz
 Summary  : Google Drive Public File/Folder Downloader
